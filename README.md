@@ -8,7 +8,7 @@ Web Developer and Data Analysis
 * ✉️  You can contact me at [snthshkumarrs@gmail.com](mailto:snthshkumarrs@gmail.com)
 * 🧠  I'm learning Python and R
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I am B. Tech Student at Srinivas University
+* ⚡  I am student of Srinivas University, Mangaluru.
 
 <a href="https://www.github.com/Santhosh-Kumar-R-S" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Santhosh-Kumar-R-S?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
