@@ -7,7 +7,7 @@ Web Developer and Data Analysis
 
 * 🌍  I'm based in Mysuru, Karnataka, India
 * ✉️  You can contact me at [snthshkumarrs@gmail.com](mailto:snthshkumarrs@gmail.com)
-* 🧠  I'm learning Business Intelligence using IBM Cognos
+* 🧠  Pursuing the Bussiness Intelligence with IBM Cognos Analytical Tool
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I am student of Srinivas University, Mangaluru.
 * For the portfolio <a href="https://santhoshkumarrs.netlify.app" style="text-decoration: none;">Click Here </a>
