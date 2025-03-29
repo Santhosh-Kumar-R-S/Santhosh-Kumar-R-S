@@ -1,7 +1,7 @@
 <div style="background-color:#1c1917; color:white; padding:20px; border-radius:10px; text-align:center;">
     <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" width="30px"> I am Santhosh Kumar R S</h1>
     <h3>Mysuru, Karnataka, India</h3>
-    <p>Web Developer and Data Analysis</p>
+    <p>Web Developer and Data Analysit</p>
 </div>
 
 ---
