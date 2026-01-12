@@ -71,16 +71,19 @@ const santhosh = {
 
 ---
 
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![Profile Details](profile-summary-card-output/tokyo-night/0-profile-details.svg)
-![Languages](profile-summary-card-output/tokyo-night/1-repos-per-language.svg)
-![Most Used Language](profile-summary-card-output/tokyo-night/2-most-commit-language.svg)
-![Productive Time](profile-summary-card-output/tokyo-night/4-productive-time.svg)
+![Profile Details](profile-summary-card-output/github_dark/0-profile-details.svg)
+![Languages](profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Most Used Language](profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![Productive Time](profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
+
 
 
 ---
