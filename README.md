@@ -84,35 +84,6 @@ const santhosh = {
 
 </div>
 
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-R-S&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## � Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Santhosh-Kumar-R-S/Rewolfes">
-    <img align="center" src="https://github-readme-stats-q2re4hld3-santhosh-kumar-r-s-projects.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Rewolfes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Santhosh-Kumar-R-S/Python-Mini-Project">
-    <img align="center" src="https://github-readme-stats-q2re4hld3-santhosh-kumar-r-s-projects.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Python-Mini-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Santhosh-Kumar-R-S/Python">
-    <img align="center" src="https://github-readme-stats-q2re4hld3-santhosh-kumar-r-s-projects.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
-  </a>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
