@@ -12,8 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate summary cards
+      - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Santhosh-Kumar-R-S
-          THEME: tokyo-night
