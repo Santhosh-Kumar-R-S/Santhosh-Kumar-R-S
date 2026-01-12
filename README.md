@@ -1,66 +1,156 @@
-<div style="background-color:#1c1917; color:white; padding:20px; border-radius:10px; text-align:center;">
-    <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" width="30px"> I am Santhosh Kumar R S</h1>
-    <h3>Mysuru, Karnataka, India</h3>
-    <p>Web Developer and Data Analysit</p>
+<div align="center">
+
+# Hi there, I'm Santhosh Kumar R S 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Web+Developer;Data+Analyst;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Santhosh-Kumar-R-S&label=Profile%20views&color=0891b2&style=flat" alt="Profile views" />
+  <a href="https://github.com/Santhosh-Kumar-R-S?tab=followers">
+    <img src="https://img.shields.io/github/followers/Santhosh-Kumar-R-S?label=Followers&style=flat&color=0891b2" alt="followers" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-### About Me
+## 🚀 About Me
 
-- 🌍 I'm based in Mysuru, Karnataka, India
-- ✉️ You can contact me at [snthshkumarrs@gmail.com](mailto:snthshkumarrs@gmail.com)
-- 🤝 I'm open to collaborating on Interesting Projects
-- ⚡ I am a student of Srinivas University, Mangaluru
-- 🌐 [Portfolio](https://santhoshkumarrs.netlify.app)
+```javascript
+const santhosh = {
+    location: "Mysuru, Karnataka, India",
+    education: "Srinivas University, Mangaluru",
+    currentFocus: ["Web Development", "Data Analysis", "Cloud Computing"],
+    interests: ["Full Stack Development", "Machine Learning", "UI/UX Design"],
+    askMeAbout: ["Web Dev", "Python", "Data Visualization", "Cloud Solutions"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-<a href="https://www.github.com/Santhosh-Kumar-R-S" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Santhosh-Kumar-R-S?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+- 🌍 Based in **Mysuru, Karnataka, India**
+- 🎓 Student at **Srinivas University, Mangaluru**
+- 💼 **Web Developer** & **Data Analyst**
+- 🌐 Portfolio: [santhoshkumarrs.netlify.app](https://santhoshkumarrs.netlify.app)
+- 📧 Reach me at: **[snthshkumarrs@gmail.com](mailto:snthshkumarrs@gmail.com)**
+- 🤝 Open to collaborating on **interesting projects**
+- ⚡ Always learning, always growing
 
 ---
 
-### Skills
+## 🛠️ Tech Stack
 
-<p>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+### Database & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
 </p>
 
 ---
 
-### Socials
-
-<p>
-<a href="https://www.github.com/Santhosh-Kumar-R-S"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="http://www.instagram.com/santhosh_kumar_r_s"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="32" height="32" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/santhosh-kumar-r-s"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://www.x.com/Santhosh_1817"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" alt="Twitter" /></a>
-</p>
-
----
-
-### GitHub Stats
-
-<a href="http://www.github.com/Santhosh-Kumar-R-S"><img src="https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-R-S&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Santhosh's GitHub stats" /></a>
-
-<a href="https://github.com/Santhosh-Kumar-R-S"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Kumar-R-S&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
----
-
-### Top Repositories
+## 📊 GitHub Statistics
 
 <div align="center">
-<a href="https://github.com/Santhosh-Kumar-R-S/Python-Mini-Project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Python-Mini-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
-<a href="https://github.com/Santhosh-Kumar-R-S/Python"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
+
+![Profile Details](profile-summary-card-output/tokyo-night/0-profile-details.svg)
+![Languages](profile-summary-card-output/tokyo-night/1-repos-per-language.svg)
+![Most Used Language](profile-summary-card-output/tokyo-night/2-most-commit-language.svg)
+![Productive Time](profile-summary-card-output/tokyo-night/4-productive-time.svg)
+
 </div>
 
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-R-S&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## � Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Santhosh-Kumar-R-S/Rewolfes">
+    <img align="center" src="https://github-readme-stats-q2re4hld3-santhosh-kumar-r-s-projects.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Rewolfes&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/Santhosh-Kumar-R-S/Python-Mini-Project">
+    <img align="center" src="https://github-readme-stats-q2re4hld3-santhosh-kumar-r-s-projects.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Python-Mini-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Santhosh-Kumar-R-S/Python">
+    <img align="center" src="https://github-readme-stats-q2re4hld3-santhosh-kumar-r-s-projects.vercel.app/api/pin/?username=Santhosh-Kumar-R-S&repo=Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9" />
+  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Santhosh-Kumar-R-S">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/santhosh-kumar-r-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/santhosh_kumar_r_s">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.x.com/Santhosh_1817">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:snthshkumarrs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://santhoshkumarrs.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+### ✨ Show some ❤️ by starring some repositories!
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+**Made with ❤️ by Santhosh Kumar R S**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+
+</div>
