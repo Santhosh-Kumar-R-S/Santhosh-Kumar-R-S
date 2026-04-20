@@ -31,7 +31,7 @@ const santhosh = {
 - 🌍 Based in **Mysuru, Karnataka, India**
 - 🎓 Student at **Srinivas University, Mangaluru**
 - 💼 **Web Developer** & **Data Analyst**
-- 🌐 Portfolio: [santhoshkumarrs.netlify.app](https://santhoshkumarrs.netlify.app)
+- 🌐 Portfolio: [santhoshkumarrs.vercel.app](https://santhoshkumarrs.vercel.app)
 - 📧 Reach me at: **[snthshkumarrs@gmail.com](mailto:snthshkumarrs@gmail.com)**
 - 🤝 Open to collaborating on **interesting projects**
 - ⚡ Always learning, always growing
@@ -104,8 +104,8 @@ const santhosh = {
   <a href="mailto:snthshkumarrs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://santhoshkumarrs.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://santhoshkumarrs.vercel.app">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
